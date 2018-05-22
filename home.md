@@ -1,1 +1,29 @@
-# home
+<!doctype html>
+<html>
+<meta charset="utf-8">
+
+<head>
+  <title>home is</title>
+  <h1>here is home</h1>
+  <body background="image/BACK.jpg">
+</head>
+
+<body>
+<p>
+  <pre><h4>    <u>2018.05.23</u></h4>
+    시작이 반이다.
+    써본 태그: html, head, body, title, pre, p, li, image, h1~h6,
+    body background, br, meta charset, a href, a href target
+</pre></p>
+<br>
+<p>
+<li>1.타이틀 먼저</li>
+<li>2. 백그라운드 사진 넣기</li>
+<li>3. 글자 쓰기</li>
+<li>4. 여러 태그 써보기</li>
+<li>5. 사진 넣기</li>
+</p>
+<a href="http://www.naver.com"><image src="image/A.jpg" width="200"></a>
+<a href="http://www.naver.com" target="_blank"><image src="image/c.jpg" width="100">
+</body>
+</html>
